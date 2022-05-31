@@ -2,8 +2,7 @@
 
 public static class NumButtonHelper
 {
-
-
+        
         #region Varibles
 
         private static readonly  KeyCode[] AlphaKeys = new[]
@@ -35,8 +34,7 @@ public static class NumButtonHelper
         };
 
         #endregion
-
-
+        
         #region Public methods
 
         public static int GetPressButtonIndex()

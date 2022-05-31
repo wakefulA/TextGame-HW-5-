@@ -17,11 +17,8 @@ public class Step : MonoBehaviour
 
     public Sprite NameImage;
     
-
     public Step[] Choices;
 
     #endregion
     
-    
-   
 }

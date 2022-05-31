@@ -29,7 +29,6 @@ public class GameManager : MonoBehaviour
 
     #endregion
 
-
     #region Unity lifecycle
 
     private void Start()
@@ -51,7 +50,6 @@ public class GameManager : MonoBehaviour
     }
 
     #endregion
-
 
     #region Private methods
 
